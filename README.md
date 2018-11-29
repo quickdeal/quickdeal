@@ -1,0 +1,2 @@
+# quickdeal
+Android platform
